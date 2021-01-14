@@ -15,6 +15,37 @@ body {
     width: 40%;
     float: left;  
 }
-section {
-    border: 1px;solid
+ection {
+    background-color: #fafafa;
+    height: 62px;
+}
+
+.About {
+   
+    width: 100px;
+    text-align: center;
+    float: left;
+    margin-left: 900px;
+    font-size: 12px;
+}
+  .work {
+   
+    width: 100px;
+    text-align: center;
+    float: left;
+    font-size: 12px;
+  }
+.Protfolio {
+    
+    width: 100px;
+    text-align: center;
+    float: left;
+    font-size: 12px;
+}
+.Contact {
+    
+    width: 100px;
+    text-align: center;
+    float: left;
+    font-size: 12px;
 }
