@@ -1,5 +1,6 @@
 body {
     font-family: 'Oswald', sans-serif;
+    margin: 0px;
 }
 .name-highlight {
     color: rgb(238, 109, 109);
@@ -7,16 +8,25 @@ body {
 .sunny-4 {
     width: 40%;
     float: left;
+    margin-left: 100px;
+    padding-top: 150px;
 }
 .sunny-4 img {
     width: 100%;
 }
-.welcome {
+.welcome-div {
     width: 40%;
-    float: left;  
+    float: left;
+    margin-top: 5px;
+    padding-left: 60px;
+    text-align: center;
+    padding-top: 100px;
 }
-ection {
-    background-color: #fafafa;
+.welcome {
+    font-size: 42px;
+}
+.manu {
+    background-color: #69a8f0;
     height: 62px;
 }
 
@@ -49,3 +59,9 @@ ection {
     float: left;
     font-size: 12px;
 }
+.top-banner {
+    background-image: url("image/top-banner.png");
+    background-repeat: no-repeat;
+    height: 500px;
+}
+    
